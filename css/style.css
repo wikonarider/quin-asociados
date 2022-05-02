@@ -3458,7 +3458,7 @@ select:focus {
 #single-service-area .sec-title .border{
     height: 2px;
     width: 50px;
-    background: #3d4394;
+    background: #073c58;
     display: block;
     margin: 19px 0 0;
     
@@ -3716,7 +3716,7 @@ select:focus {
 }
 
 .project-filter li span:before {
-    background: #3d4394 none repeat scroll 0 0;
+    background: #073c58 none repeat scroll 0 0;
     bottom: -13px;
     content: " ";
     display: block;
@@ -3734,7 +3734,7 @@ select:focus {
 }
 .project-filter li.active span, 
 .project-filter li:hover span {
-    color: #3d4394;
+    color: #073c58;
 }
 
 .main-project-area .post-pagination{
@@ -3772,7 +3772,7 @@ select:focus {
     margin: 0 0 2px;
 }
 .single-project-item .text-holder span{
-    color: #3d4394;    
+    color: #073c58;    
 }
 .main-project-area.project-v2 .single-project-item .img-holder .overlay-style-one .box .content a i{
     font-size: 20px;
@@ -3798,7 +3798,7 @@ select:focus {
 }
 .project-single-area .sec-title .border {
     height: 2px;
-    background: #3d4394;
+    background: #073c58;
     width: 50px;
     display: block;
     margin: 15px 0 0;
@@ -3818,7 +3818,7 @@ select:focus {
     padding-right: 20px;
 }
 .project-single-area .project-info ul li {
-    color: #3d4394;
+    color: #073c58;
     font-size: 16px;
     margin-bottom: 15px;
 }
@@ -3846,7 +3846,7 @@ select:focus {
     margin: 0 0 8px;
 }
 .project-single-area .legal-work-content span{
-    color: #3d4394;
+    color: #073c58;
     margin: 0;
 }
 .project-single-area .legal-work-content p {
@@ -3892,7 +3892,7 @@ select:focus {
 .project-single-area .project-result .text-holder ul li:before {
     content: "\f046";
     font-family: FontAwesome;
-    color: #3d4394;
+    color: #073c58;
     font-size: 16px;
     position: absolute;
     top: 0;
@@ -3915,7 +3915,7 @@ select:focus {
   transition: all 500ms ease;
 }
 .project-single-area .bottom .button a:hover{
-  color: #3d4394;
+  color: #073c58;
 }
 .project-single-area .bottom .button a i {
   display: inline-block;
@@ -3936,7 +3936,7 @@ select:focus {
   transition: all 500ms ease 0s;
 }
 .project-single-area .bottom .icon-holder a:hover i{
-  color: #3d4394;
+  color: #073c58;
 }
 
 
@@ -4216,7 +4216,6 @@ select:focus {
     text-decoration: inherit;
     color: #f1f1f1;
     font-size: 24px;
-    padding-right: ;
     position: absolute;
     top: -3px;
     left: 30px;    
